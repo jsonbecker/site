@@ -1,0 +1,9 @@
+pre {
+	white-space: pre;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+pre, code {
+	font: 'Source Code Pro', Menlo, Consolas, Monaco, 'Courier New', Courier, monospace;
+}
