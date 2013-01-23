@@ -1,0 +1,18 @@
+library(devtools)
+install_github("devtools", "hadley")
+install_github("slidify", "ramnathv")
+install_github("slidifyLibraries", "ramnathv")
+install_github("knitr", "yihui")
+install_github("whisker", "edwindj")
+install_github("markdown", "rstudio")
+install_github("ggthemes", "jrnold")
+library(slidify)
+library(markdown)
+library(slidifyLibraries)
+library(knitr)
+library(ggplot2)
+library(ggthemes)
+
+slidify(inputFile="lecture1.Rmd")
+
+publish_github("jasonpbecker","EDUC1160")

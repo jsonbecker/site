@@ -1,0 +1,133 @@
+person_attributes <- c('studentid','sasid','test')
+person_attributes
+person_attributes[-'test']
+person_attributes[-c('test')]
+person_attributes[-3]
+?list
+??slice list
+??slice
+person_attributes
+person_attributes[1]
+person_attributes[['test']]
+person_attributes['test']
+str(person_attributes)
+sys.date()
+Sys.date()
+sys.time()
+Sys.time()
+exit()
+q('no')
+a <- c(1:5, 1:-3, 1, 2, 3, 4, 5)#
+b <- c(6:-8)
+table(a>b)
+library(datasets)
+s <- split(airquality, airquality$Month)
+str(s)
+lapply(s, max(Wind))
+lapply(s, str)
+length(s)
+lapply(s, apply(Wind, 1, max))
+lapply(s, names)
+s[1]
+s[2]
+sapply(s, max)
+lapply(s, max)
+lapply(s, which.max)
+q()
+library(datasets)
+names(airquality)
+airquality[1:2,]
+dim(airquality)
+nrow(airquality)
+airquality[-2,]
+airquality[152:153,]
+airquality[47,'Ozone']
+table(is.na(airquality$Ozone))
+mean(airquality$Ozone, na.rm=TRUE)
+mean(airquality[,Ozone>31 & Temp >90])
+mean(airquality[,'Ozone'>31 & 'Temp' >90])
+mean(airquality[,'Ozone'>31 & 'Temp' >90][,'Solar.R'])
+mean(airquality[,'Ozone'>31 & 'Temp' >90][,'Solar.R'], na.rm=TRUE)
+mean(subset(airquality, Ozone>31 & Temp >90)$Solar.R, na.rm=TRUE)
+mean(subset(airquality, Ozone>31)$Solar.R, na.rm=TRUE)
+mean(subset(airquality, Temp>90)$Solar.R, na.rm=TRUE)
+mean(subset(airquality, Ozone>31 & Temp >90)$Solar.R, na.rm=TRUE)
+mean(subset(airquality, Ozone>31 && Temp >90)$Solar.R, na.rm=TRUE)
+mean(subset(airquality, Ozone>31 & Temp>90)$Solar.R, na.rm=TRUE)
+class(airquality$Month)
+mean(subset(airquality, Month==6)$Temp, na.rm=TRUE)
+exit()
+q()
+library(datasets)
+airquality[,'Ozone'>31 & ]
+airquality[,'Ozone'>31 & 'Temp'>90 ]
+mean(airquality[,'Ozone'>31 & 'Temp'>90 ][,Solar.R], na.rm=TRUE)
+mean(airquality[,'Ozone'>31 & 'Temp'>90 ][,'Solar.R'], na.rm=TRUE)
+mean(airquality['Ozone'>31 & 'Temp'>90, ][,'Solar.R'], na.rm=TRUE)
+mean(airquality['Ozone'>31 & 'Temp'>90][,'Solar.R'], na.rm=TRUE)
+mean(airquality['Ozone'>31 & 'Temp'>90]['Solar.R'], na.rm=TRUE)
+mean(airquality['Ozone'>31 & 'Temp'>90]$Solar.R, na.rm=TRUE)
+Unique <- function(x){}
+Unique <- function(x){
+for i in 1:len(x){
+unique
+base::unique
+ls
+unique
+UseMethod('unique')
+?unique
+Unique <- function(x){
+for(i in 1:len(x)){
+}
+?sample
+p <- sample(1:100,50,replace=TRUE)
+p
+unique(p)
+dim(unique(p))
+length(unique(p))
+p
+p<-sort(p)
+p
+q <- p
+p <- c(NA, q)
+q <- c(q, NA)
+p
+c
+q
+p[p!=q]
+p!q
+p!=q
+p <- sample(1:10,100,replace=TRUE)
+p
+length(unique(p))
+sorted <- sort(p)
+p <- c(NA, sorted)
+q <- c(sorted, NA)
+p[p!=q]
+sorted
+q
+p
+p!=q
+airquality
+mean(airquality['Ozone'>31 & 'Temp'>90,][,'Solar.R'], na.rm=TRUE)
+mean(airquality[('Ozone'>31 & 'Temp'>90),][,'Solar.R'], na.rm=TRUE)
+q('no')
+10:1`
+``
+10:1
+rbinom(1,1,0.5)
+?rbinom
+rbinom(1,100,0.5)
+rbinom(100,1,0.5)
+rbinom(100,100,0.5)
+rbinom(100,100,0.6)
+rbinom(100,100,0.5)
+setwd('/Users/jason/Code Projects/jasonpbecker.github.com/EDUC1160/')
+source(buildSlides.r)
+source('buildSlides.r')
+slidify(inputFile="lecture1.Rmd")
+slidify(inputFile="lecture1.Rmd")
+library(slidify)
+library(knitr)
+library(markdown)
+slidify(inputFile="lecture1.Rmd")
