@@ -18,6 +18,7 @@ This course will provide an overview of education policy research with an
 emphasis on strategies for measuring *causal impacts*.
 
 Today:
+
 1. Relation to other courses
 2. Course objectives (with your help)
 3. Course Outline (kind of)
@@ -31,7 +32,8 @@ Today:
 - **Course will build on discipline-based research**
 	- Economics of Education; Psychology/ Human Development, 
 	  Sociology of Education, Political Science
-- ** You should know some statistics**
+
+- **You should know some statistics**
 	- Introductory statistics (i.e. an understanding of how to interpret 
 		Ordinary Least Squares (OLS) regression results and a basic familiarity with
 		a statistical software package of choice.)

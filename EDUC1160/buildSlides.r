@@ -15,4 +15,3 @@ library(ggthemes)
 
 slidify(inputFile="EDUC1160/lecture1.Rmd")
 
-publish_github("jasonpbecker","jasonpbecker.github.com/EDUC1160")
