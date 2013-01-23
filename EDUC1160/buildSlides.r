@@ -14,5 +14,5 @@ library(knitr)
 library(ggplot2)
 library(ggthemes)
 
-slidify(inputFile="EDUC1160/lecture1.Rmd")
+slidify(inputFile="EDUC1160/lecture1.Rmd", outputFile="EDUC1160/lecture1.html")
 
