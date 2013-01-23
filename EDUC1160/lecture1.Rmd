@@ -202,8 +202,8 @@ Deductive Reasoning
 Inductive Reasoning
   - First observe a pattern, then try to explain what you have observed by 
   generalizing it
-  
-  
+
+
 ---
 
 ## Partial v. General Equilibrium
