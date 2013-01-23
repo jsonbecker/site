@@ -128,7 +128,8 @@ Primary text: Methods Matter: Improving Causal Inference in Educational Research
   - Definitely will have 1.
 - Final paper: 25%
   - May swap one of the take-home exams.
-  
+
+
 ---
 
 ## Final Paper/Big Paper
@@ -201,6 +202,7 @@ Deductive Reasoning
 Inductive Reasoning
   - First observe a pattern, then try to explain what you have observed by 
   generalizing it
+  
   
 ---
 
