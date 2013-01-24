@@ -4,7 +4,7 @@ title       : EDUC1160 Evaluating the Impact of Social Programs
 subtitle    : Causal Research Design
 author      : Jason Becker
 job         : Harvard Strategic Data Fellow, AISR/PPSD
-framework   : html5slides     # {io2012, html5slides, shower, dzslides, ...}
+framework   : io2012    # {io2012, html5slides, shower, dzslides, ...}
 highlighter : prettify  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 theme       : default
