@@ -334,6 +334,6 @@ education policy: 2006-07: pp. 205-228.
 
 ### Lectures
 
-Will be posted at: [http://www.jsonbecker.com/EDUC1160](http://www.jsonbecker.com/EDUC1160)
+Will be posted at: http://www.jsonbecker.com/EDUC1160
 
 ---
