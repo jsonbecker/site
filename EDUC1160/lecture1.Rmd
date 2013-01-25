@@ -38,6 +38,9 @@ Today:
 	- Introductory statistics (i.e. an understanding of how to interpret 
 		Ordinary Least Squares (OLS) regression results and a basic familiarity with
 		a statistical software package of choice.)
+  
+- The course materials were originally written by someone else!
+  - I owe a great deal of gratitude to Angela Boatman who redesigned this class marvelously and whose lecture notes I am adapting fairly faithfully.
 
 ---
 
@@ -84,8 +87,8 @@ these data?
 ---
 
 ## Course Outline
->1. The ―evaluation problem‖ and randomized experiments
->2. Estimating causal effects using observational data Differences-in-differences
+>-1. The evaluation problem and randomized experiments
+>-2. Estimating causal effects using observational data Differences-in-differences
   - Fixed Effects
   - Instrumental Variables
   - Regression Discontinuity designs 
@@ -193,14 +196,14 @@ popular cost drivers mattered.
 
 ## Why theory?
 
-Theory provides a schema/system/framework to:
-- Hypothesize relationships
-- Predict direction of relationships
-- Identify input measures and output measures
+>-Theory provides a schema/system/framework to:
+  - Hypothesize relationships
+  - Predict direction of relationships
+  - Identify input measures and output measures
 
-Deductive Reasoning
+>-Deductive Reasoning
   - Develop a specific hypotheses from a general theory
-Inductive Reasoning
+>-Inductive Reasoning
   - First observe a pattern, then try to explain what you have observed by 
   generalizing it
 
@@ -214,10 +217,123 @@ Inductive Reasoning
  - Look at the impacts in full context, with many subtle effects on related 
  systems
  
->Mandatory Class Size Reductions:
+>-Mandatory Class Size Reductions:
   - Guided by partial equilibrium findings
   - But some things are different when applied broadly at the state level.
   
->Vouchers
+>-Vouchers
+
+---
+
+## Importance of Theory
+
+- Provides guidance about the question to ask
+- Informs the key constructs to measure
+- Suggests the direction of relationships
+
+- Common examples:
+  - Human Capital theory
+  - Market Signaling theory
+  - Bourdieu’s Social Reproduction theory
+
+---
+
+##  Causal Research
+
+### John Stuart Mill’s 3 Critical Conditions
+
+1. Cause comes before effect
+2. Different levels of cause lead to different levels of effect
+3. There can be no other alternative explanations for the link between cause and effect other than that X really does cause Y
+  - Random assignment discounts all other possible explanations
+
+---
+
+## The Evaluation Challenge
+
+You want to know what would have happened in the absence of a program, however, it is often very difficult to identify the correct comparison group.
+
+---
+
+## Old Biff
+
+![](images/oldbiff.jpg)
+
+---
+## To new Biff
+
+![](images/newbiff.jpg)
+
+---
+
+## The Evaluation Challenge
+
+### Formally:
+
+
+If your **comparison group** does a poor job of estimating the **counterfactual** of the treatment group, your estimate of the treatment effect will be *biased*.
+
+---
+
+## ￼Difficulty selecting the comparison group
+
+### Selection bias 
+
+>- Participants are self selected based on unobserved characteristics or selected by someone else based on non-random characteristics
+  >- The most motivated students apply to a program 
+  >- Results will be biased upwards
+
+>- Picking the students who need the program the most 
+  >- Results will be bias downwards
+
+>- Primary sources of selection bias: Motivation/ Ability
+
+---
+
+## Potential Problems with Experiments
+
+>- Placebo effect- Participation in a study causes a change in behavior/ outcomes
+>- Ethical Issues- evidence of harm in offering or withholding a treatment
+>- Duration- Takes time to see changes in behavior
+>- Attrition
+>- Costs
+>- Substitution of alternative treatment- control group seeks out new treatment
+>- Treatment group doesn’t take up the treatment- ―intent to treat‖ effect
+
+---
+
+## Ethics in experimentation
+
+>- Denial of services or benefits to members of the control group
+>- Ineffective programs can waste valuable resources
+>- General rule: Leave the individual no worse off than she would have been in the absence of the experiment
+
+---
+
+## Internal and External Validity
+
+>- **Internal validity:**  the statistical inferences about causal effects are valid for the population being  studied.  
+  - There are no rival explanations for the statistical relationship between the treatment and the outcomes
+
+
+>- **External validity**:  the statistical inferences can be *generalized* from the population and setting studied to other populations and settings.
+
+---
+
+## Readings
+
+### By Friday, Feb 1:
+
+1. Murnane & Willett (2011), Chapter 5 
+
+2. Schanzenbach, D. W. (2007).  “What researchers have 
+learned from Project STAR”.  Brookings papers on 
+education policy: 2006-07: pp. 205-228.
+
+3. Raudenbush
+
+### Lectures
+
+Will be posted at: [](http://www.jsonbecker.com/EDUC1160)
 
 ---
