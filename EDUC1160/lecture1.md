@@ -312,7 +312,7 @@ If your **comparison group** does a poor job of estimating the **counterfactual*
 
 ## Internal and External Validity
 
->- **Internal validity:**  the statistical inferences about causal effects are valid for the population being  studied.  
+>- **Internal validity:**  the statistical inferences about causal effects are valid for the population being studied.  
   - There are no rival explanations for the statistical relationship between the treatment and the outcomes
 
 
@@ -334,6 +334,6 @@ education policy: 2006-07: pp. 205-228.
 
 ### Lectures
 
-Will be posted at: http://www.jsonbecker.com/EDUC1160
+Will be posted at: [http://www.jsonbecker.com/EDUC1160](http://www.jsonbecker.com/EDUC1160)
 
 ---
