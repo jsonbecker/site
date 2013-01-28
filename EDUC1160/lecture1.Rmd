@@ -322,15 +322,19 @@ If your **comparison group** does a poor job of estimating the **counterfactual*
 
 ## Readings
 
-### By Friday, Feb 1:
+### By Friday, Feb 1 (in order):
 
-1. Murnane & Willett (2011), Chapter 5 
+1. Murnane & Willett (2011), Chapter 4 
 
-2. Schanzenbach, D. W. (2007).  “What researchers have 
+2. Raudenbush
+
+3. Schanzenbach, D. W. (2007).  “What researchers have 
 learned from Project STAR”.  Brookings papers on 
 education policy: 2006-07: pp. 205-228.
 
-3. Raudenbush
+4. Long Term Effects of Moving to Opporunity on Youth Outcomes
+
+Over the weekend next weekend I'll have questions from MtO paper on the quiz.
 
 ### Lectures
 

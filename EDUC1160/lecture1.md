@@ -324,7 +324,7 @@ If your **comparison group** does a poor job of estimating the **counterfactual*
 
 ### By Friday, Feb 1:
 
-1. Murnane & Willett (2011), Chapter 5 
+1. Murnane & Willett (2011), Chapter 4 
 
 2. Schanzenbach, D. W. (2007).  “What researchers have 
 learned from Project STAR”.  Brookings papers on 
