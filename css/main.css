@@ -7,3 +7,23 @@ pre {
 pre, code {
 	font-family: 'Source Code Pro', Menlo, Consolas, Monaco, 'Courier New', monospace;
 }
+
+.topmenu ul {
+	list-style: none; 
+	text-align: center;
+	border-top:1px solid #000; 
+	border-bottom:1px solid #000;  
+	padding: 10px 10px;
+	font-variant: small-caps;
+	letter-spacing: 1px;
+}
+
+.topmenu li{
+	display: inline; 
+}
+
+body{
+	font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+	background-image: url('../blog/straws.png');
+	background-repeat: repeat;
+}
