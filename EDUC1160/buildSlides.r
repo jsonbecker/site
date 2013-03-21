@@ -15,5 +15,5 @@ library(ggplot2)
 library(ggthemes)
 
 setwd('~/Code Projects/jasonpbecker.github.com/EDUC1160/')
-slidify(inputFile="lecture1.Rmd", outputFile="lecture1.html")
+slidify(inputFile="educ2350.Rmd", outputFile="educ2350.html")
 
