@@ -160,10 +160,9 @@ Local governments can't tax effecively for goods that their constituents don't r
 
 ## Race to the Bottom: A Challenge to Decentralization
 
-- What if decentralization is really bad because of the horizonal relationships between jurisdictions?
-- Claim: "interjurisdictional competition among decentralized levels of government introduces serious allocative distortions"
-
->- Competition creates a "race to the bottom" on taxation to outbit other jurisdictions for businesses and jobs. The result is overall taxation and provision of public goods is artificialy lowered.
+>- What if decentralization is really bad because of the horizonal relationships between jurisdictions?
+>- Claim: "interjurisdictional competition among decentralized levels of government introduces serious allocative distortions"
+>- Competition creates a "race to the bottom" on taxation to outbid other jurisdictions for businesses and jobs. The result is overall taxation and provision of public goods is artificialy lowered.
 
 
 ---
