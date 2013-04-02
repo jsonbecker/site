@@ -76,7 +76,7 @@ mode        : selfcontained # {standalone, draft}
 
 ## Fiscal Federalism Guidelines
 
-Centralizde provision:
+Centralized provision:
 - Macroeconomic stabilization (inflation, monetary policy, etc)
 - Redistributive policies
 - "National goods", like defense. 
@@ -90,7 +90,7 @@ Decentralized provision:
 
 ## Constraints on Local Revenue
 
-Local governments can't tax effecively for goods that their constituents don't receive a direct benefit for.
+Local governments can't tax effectively for goods that their constituents don't receive a direct benefit for.
 
 >- Tax avoidance through when there are low transaction costs for a mobile unit (household, person, business) and the marginal cost is greater than the marginal benefit they experience directly
 
@@ -136,12 +136,12 @@ Local governments can't tax effecively for goods that their constituents don't r
 ## Impacts of Intergovernmental Grants
 
 - Should be the same as increasing income by the size of the grant.
-- Empircal studies show IGG with much larger impact on provision of goods than income alone.
+- Empirical studies show IGG with much larger impact on provision of goods than income alone.
 
 >- Flypaper effect: money tends to stick where it lands.
 >- Might posit that IGG is just a veiled tax cut.
 >- Explaining the flypaper effect is important feature of federalism models
-  - For now, grants (money in hand) illicits different response than money raised through direction taxation. Game theory models mentioned later help to explain why.
+  - For now, grants (money in hand) elicits different response than money raised through direction taxation. Game theory models mentioned later help to explain why.
 
 ---
 
@@ -169,7 +169,7 @@ Local governments can't tax effecively for goods that their constituents don't r
 
 ## Race to the Bottom: Solutions? 
 
->- Maybe there is no problem. Maybe interjurisdictional competition results in enhancing efficiency through normal market mechanisms.
+>- Maybe there is no problem. Maybe inter-jurisdictional competition results in enhancing efficiency through normal market mechanisms.
   - Mobile capital stock
   - Utility maximizing of local provision of public goods and revenue generation.
 
@@ -196,7 +196,7 @@ Your turn:
 - Cooperative federalism: different levels of government work together in coordinated ways.
 - Subnational government seeks guidance, funding, political coverage, etc. from the national government in order to best solve public problems.
 - Treating the decisions made by the national and subnational governments in an interrelated way.
-- How do we understand undersiable restrictions that national governments place on grants?
+- How do we understand undesirable restrictions that national governments place on grants?
 - Novel understanding of flypaper effect, asymmetry, and decisions to participate.
 
 ---
@@ -211,7 +211,7 @@ Your turn:
 	- Onerous reporting and maintenance of effort? (Title 1 supplement v. supplant)
 3. Should a subnational government accept the money?
 	- Who applies to RTTT and who doesn't?
-	- Some states recieved no highway funding because of drinking age restriction.
+	- Some states received no highway funding because of drinking age restriction.
 4. How should the subnational government use the grant money?
 
 ---
@@ -274,7 +274,7 @@ $\alpha_{i}$: efficiency of taxation at government level $i$
 ## Utility Equations
 $$U_{i}=(q_{S} + q_{N})f_{C,i}d-(t_{S}+t_{N})^{2}f_{B,i}- \vert y-x_{i} \vert$$
 
-$(q_{S} + q_{N})f_{C,i}d$: credit that voters give government $i$. This is consdiered to be the total quantity of that good multiplied by the fraction of credit given to government $i$ and the public demand for that policy.
+$(q_{S} + q_{N})f_{C,i}d$: credit that voters give government $i$. This is considered to be the total quantity of that good multiplied by the fraction of credit given to government $i$ and the public demand for that policy.
 
 $(t_{S}+t_{N})^{2}f_{B,N}$: blame received for a policy, represented by the total taxation to pay for the policy squared (because Americans hate taxes!) multiplied by the fraction of the blame for government $i$.
 
@@ -286,7 +286,7 @@ $\vert y-x_{i} \vert$: the difference between government $i$'s ideal policy, $x_
 
 ## Playing the Game
 
-Results are hard to read and understand if are not used to reading these papers, but if you use the appendix, it's all simple algebra and a little bit of derivatives to find maximums. Best not to interepret directly and just look for what terms are in the numerator and denominator and the "order" of these terms (what power they're raised to).
+Results are hard to read and understand if are not used to reading these papers, but if you use the appendix, it's all simple algebra and a little bit of derivatives to find maximums. Best not to interpret directly and just look for what terms are in the numerator and denominator and the "order" of these terms (what power they're raised to).
 
 ---
 
