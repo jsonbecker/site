@@ -1,0 +1,6 @@
+# robots.txt file
+
+User-agent: *
+Disallow: /contact/ # this is a vCard with personal information
+Disallow: /jbecker_resume.pdf # this is my resume
+Disallow: /EDUC1160/ # this was a course I taught and may have copyright info
