@@ -1,0 +1,38 @@
+body    { font: 1em 'Arvo', serif;
+          margin: 0; padding-left: 2em; padding-right: 2em;}
+a       { color: #00997C; }
+a:hover { color: #3b185f; background: #fdfdfd; }
+a:visited{ color: #3b185f; }
+
+strong, em  {color: #1177bb; }
+
+
+.container   {max-width: 800px; min-width: 480px;
+              margin: 48px auto; padding: 0;
+              display:block;
+              float:center;
+              /*overflow:auto;*/}
+
+figure {width:45%;
+        float:left;
+        display:inline-block;}
+
+figure img {height: auto;
+            max-width: 100%}
+
+section { width: 45%;
+          position: relative;
+          float: left;
+          display: inline-block;}
+
+section.contact {display: inline-block;}
+span.attribute {color: #aaa;}
+
+section.social{display:inline-block;
+               float:center;
+               font-size: 27px;}
+section.social a                { color: #888; text-decoration: none;}
+section.social ul               { margin: 0; padding: 0; list-style: none; }
+section.social ul li            { display: inline; margin: 0 2px; padding: 0; }
+
+footer{clear:both; text-align: center;}
