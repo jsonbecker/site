@@ -26,7 +26,6 @@ incremental: true
 - What is the median income of a community?
 - What is the total taxable property value in a community?
 
-> Forget the transition, it's a whacky mess.
 
 State Funding
 ==============================================================
