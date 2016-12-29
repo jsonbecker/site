@@ -5,7 +5,7 @@ pre {
 }
 
 pre, code {
-	font-family: 'Source Code Pro', Menlo, Consolas, Monaco, 'Courier New', monospace;
+	font-family: 'Hack', Menlo, Consolas, Monaco, 'Courier New', monospace;
 }
 
 .topmenu ul {
@@ -23,7 +23,5 @@ pre, code {
 }
 
 body{
-	font-family: 'PT Sans', Helvetica, Arial, sans-serif;
-	background-image: url('../blog/straws.png');
-	background-repeat: repeat;
+	font-family: Helvetica, Arial, sans-serif;
 }
